@@ -1,7 +1,4 @@
-/*isim:Bilge Ceren Yilmaz
-No:10658469302
-Soru 1
-Vs 2022 ile yapildi*/
+
 #include <stdio.h>
 #include <conio.h>
 int main()
